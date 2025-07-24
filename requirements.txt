@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn==0.11.0
+ptitprince
+scikit-learn
+scipy
+pyserial
