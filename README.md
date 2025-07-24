@@ -115,15 +115,4 @@ keerti/
 - Run `csvprocees.py` to collect and save normalized HR data.
 - Open the Jupyter notebook and run `photoplethysmograph-pca-prediction-brierscore-0-03.ipynb` for ML analysis.
 
----
 
-## 📜 License
-
-*You can add a license like MIT or Apache 2.0 depending on your sharing preferences.*
-
----
-
-## 🙋‍♀️ Author
-
-**Keerti** – [NIT Andhra]  
-*Built with Arduino, Python, and ML to promote health tech innovation.*
